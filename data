@@ -1,0 +1,6 @@
+#Data
+
+Primary source (Google Drive):
+GSE286313 matrix: https://drive.google.com/file/d/13ykXmUoqNZJ2o6iImccdma2l77_3rAm4/view?usp=drive_link
+
+Use `make download-data` (or the script) to fetch the file into `data/`.
