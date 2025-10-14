@@ -1,6 +1,4 @@
 # -Computational-Genomics-
-📘 README.md – DNA Methylation Hackathon: EPIC v1 vs v2 Platform Comparison
-🧬 Project Title
 
 Comparative Analysis of DNA Methylation Patterns Using EPIC v1 and v2 Arrays
 
